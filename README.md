@@ -73,6 +73,7 @@ cd Dashboard-monitoring
 pip install -r requirements.txt
 python3 app.py
 ```
+`jika Terjadi error saat install pip install -r requirements.txt anda bisa menginstalnya secara manual`
 
 ## otput terminal
 ```
