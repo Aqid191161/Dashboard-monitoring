@@ -70,10 +70,10 @@ Sistem pemantauan server real-time untuk memantau penggunaan CPU, RAM, Disk, dan
 ```bash
 git clone https://github.com/Aqid191161/Dashboard-monitoring.git
 cd Dashboard-monitoring
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 python3 app.py
 ```
-`jika Terjadi error saat install pip install -r requirements.txt anda bisa menginstalnya secara manual`
+> jika Terjadi error saat install pip install -r requirements.txt anda bisa menginstalnya secara manual
 
 ## otput terminal
 ```
