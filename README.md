@@ -75,6 +75,12 @@ python3 app.py
 ```
 > jika Terjadi error saat install pip install -r requirements.txt anda bisa menginstalnya secara manual
 
+## install requirements manual 
+```
+pip3 install 
+```
+
+
 ## otput terminal
 ```
 ┌───(kali㉿kali)-[~]
