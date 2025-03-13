@@ -77,7 +77,7 @@ python3 app.py
 
 ## install requirements manual 
 ```
-pip3 install 
+pip3 install Flask
 ```
 
 
